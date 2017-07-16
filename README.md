@@ -1,3 +1,3 @@
 # hello-world
 This is my first repository
-Let's ;earn something new today :)
+Let's learn something new today :)
